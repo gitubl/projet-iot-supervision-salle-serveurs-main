@@ -22,8 +22,3 @@ Pour éviter les pannes et la condensation, il est important de pouvoir mesurer,
 
 ---
 
-### Participants
-
-- [BOUTABA Ianice](https://github.com/i4n1ce)
-- [KONIECZKOWICZ Raphaël](https://github.com/fyles-git)
-- [WAUQUIER Alex](https://github.com/alleyne234)
